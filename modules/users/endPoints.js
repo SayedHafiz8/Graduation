@@ -1,0 +1,11 @@
+const GET_ALL_USER="user:GET_ALL_USER";
+const DELETE_USER="user:DELETE_USER";
+const UPDATE_USER="user:UPDATE_USER;"
+const SOFT_DELETE_USER="user:SOFT_DELETE_USER"
+
+module.exports={
+    GET_ALL_USER,
+    DELETE_USER,
+    UPDATE_USER,
+    SOFT_DELETE_USER
+}
